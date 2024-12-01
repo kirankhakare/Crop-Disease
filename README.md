@@ -32,7 +32,7 @@ This project uses Machine Learning to identify crop diseases 🌱 and provide tr
 
 # 📂 Installation
 ✅ Clone this repository :
-git clone 
+git clone https://github.com/kirankhakare/Crop-Disease.git
 
 ✅ Navigate to the project directory :
 cd crop-disease-detection  
